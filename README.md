@@ -1,6 +1,6 @@
 # 🌟 Machine Learning Concepts Repository
 
-![Welcome GIF](https://media.giphy.com/media/XbIFt15TtFzTkFGuWm/giphy.gif)
+![New Welcome GIF](https://media.giphy.com/media/2oF7VqZIVTxTHZVYhW/giphy.gif)
 
 Welcome to the **Machine Learning Concepts Repository**! 🚀 This collection is your ultimate guide to understanding and revisiting fundamental concepts in machine learning. Whether you're new to the field or brushing up on your skills, this repository is designed to simplify and structure your learning experience.
 
